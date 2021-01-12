@@ -530,7 +530,7 @@ color: rgb(124, 124, 124);
 font-family: 'Comfortaa', cursive;
 font-size: 20px;
 font-weight: 900;
-
+margin-top: 140px;
     }
     .ordr-h1{
         font-size: 43px;
@@ -589,7 +589,7 @@ font-weight: 900;
   }
 
   .page-nav {
-    padding: 40px;
+    padding: 57px 0px 26px;
     text-align: center;
  }
 
