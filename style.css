@@ -704,8 +704,24 @@ margin-top: 140px;
 }
 
 
+.menu-h3-1{
+    font-family: 'Comfortaa', cursive;
+    padding-bottom: 30px;
+    font-weight: 800;
+padding-top: 30px;
 
-
+}
+.outlet-a-1{
+    text-decoration: none;
+    color: rgb(138, 138, 138);
+    font-family: 'Comfortaa', cursive;
+    font-weight: 600;
+    
+}
+.menu-h5-1{
+    font-weight: 800;
+    font-size: 15px;
+}
 
 
 
@@ -771,3 +787,4 @@ padding-top: 30px;
                  font-weight: 900;
                  
             }
+
