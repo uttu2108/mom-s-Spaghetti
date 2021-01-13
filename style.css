@@ -706,12 +706,13 @@ margin-top: 140px;
 
 .menu-h3-1{
     font-family: 'Comfortaa', cursive;
-    padding-bottom: 30px;
-    font-weight: 800;
+    padding-bottom: 6px;
+    font-weight: 900;
 padding-top: 30px;
+font-size: 15px;
 
 }
-.outlet-a-1{
+.menu-a-1{
     text-decoration: none;
     color: rgb(138, 138, 138);
     font-family: 'Comfortaa', cursive;
