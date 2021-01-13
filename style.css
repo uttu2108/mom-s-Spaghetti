@@ -714,10 +714,11 @@ font-size: 15px;
 }
 .menu-a-1{
     text-decoration: none;
-    color: rgb(138, 138, 138);
+    color: rgb(119, 119, 119);
     font-family: 'Comfortaa', cursive;
     font-weight: 600;
-    
+    padding-bottom: 50px;
+    font-size: 16px;
 }
 .menu-h5-1{
     font-weight: 800;
@@ -789,3 +790,4 @@ padding-top: 30px;
                  
             }
 
+          
