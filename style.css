@@ -685,3 +685,11 @@ margin-top: 140px;
                     left: 50%;
                     transform: translate(-50%, -50%);
                   }
+
+
+
+
+ .w-100 {
+                    margin-top: 13px;
+                    width: 100%!important;
+                  }  
