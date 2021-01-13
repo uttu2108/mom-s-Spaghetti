@@ -6,7 +6,7 @@
 html{
     margin: 0%;
     padding: 0%;
-background-color: #f14c0f;
+background-color: white;
     color: black;
 }
 body {
@@ -717,3 +717,23 @@ height: 220px;
                 text-shadow: 2px 2px rgb(102, 102, 102);
 
              }
+
+
+
+             .outlet-h3-1{
+                  font-family: 'Comfortaa', cursive;
+
+             }
+             .outlet-h6-1{
+                  font-family: 'Comfortaa', cursive;
+                 
+            }
+            .outlet-h5-1{
+                 font-family: 'Comfortaa', cursive;
+                 
+            }
+            .outlet-span-1{
+
+                 font-family: 'Comfortaa', cursive;
+                 
+            }
