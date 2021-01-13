@@ -722,18 +722,26 @@ height: 220px;
 
              .outlet-h3-1{
                   font-family: 'Comfortaa', cursive;
+                  padding-bottom: 30px;
+                  font-weight: 800;
+
 
              }
              .outlet-h6-1{
                   font-family: 'Comfortaa', cursive;
+                  font-size: 15px;
+                  color: grey;
                  
             }
             .outlet-h5-1{
                  font-family: 'Comfortaa', cursive;
+                 color: grey;
+                 font-size: 16px;
                  
             }
             .outlet-span-1{
 
                  font-family: 'Comfortaa', cursive;
+                 font-weight: 900;
                  
             }
