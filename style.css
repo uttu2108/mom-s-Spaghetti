@@ -665,6 +665,13 @@ margin-top: 140px;
 
 .text-justify{
     color: white;
+    text-decoration: blue;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    font-size: 50px;
+    text-shadow: 2px 2px black;
 }
                 .centered {
                     font-family: 'Comfortaa', cursive;
