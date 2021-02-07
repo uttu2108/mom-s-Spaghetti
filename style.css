@@ -789,5 +789,19 @@ padding-top: 30px;
                  font-weight: 900;
                  
             }
-
+.blog-row{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+}
           
+
+            .blog-content-tab{
+                padding: 0px 200px 0px 200px;
+            }
+
+            .span-price-side{
+                text-align: left;
+            }
