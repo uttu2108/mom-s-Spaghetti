@@ -21,6 +21,9 @@ p {
 a {
   text-decoration: none;
 }
+.container-fluid{
+  padding: 0%;
+}
 .row > * {
   text-align: center;
 }
@@ -68,9 +71,11 @@ a {
   color: white;
 }
 
-.container-fluid {
-  padding: 0.2% 15% 0% 15%;
-}
+
+
+
+
+
 .wave-container {
   position: relative;
   background: white;
@@ -948,4 +953,17 @@ transition: box-shadow 0.6s ease-in-out;
         width: 423px;
       }
     }
+
+
+    @media screen and (min-width: 992px) {
+      .container-fluid {
+        padding: 0.2% 15% 0% 15%;
+      }
+    }
+
+
+
+
+
+
 
