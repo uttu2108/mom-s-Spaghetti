@@ -4,13 +4,13 @@
 $("#1o1").mouseenter(function() {
     $("#botton-s").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#botton-s").hide();
+    $("#botton-s").slideUp();
 });
 
 $("#1o1").mouseenter(function() {
     $("#fa-random").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#fa-random").hide();
+    $("#fa-random").slideUp();
 });
 
 
@@ -21,13 +21,13 @@ $("#1o1").mouseenter(function() {
 $("#1o11").mouseenter(function() {
     $("#botton-s-2").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#botton-s-2").hide();
+    $("#botton-s-2").slideUp();
 });
 
 $("#1o11").mouseenter(function() {
     $("#fa-random-2").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#fa-random-2").hide();
+    $("#fa-random-2").slideUp();
 });
 
 
@@ -37,13 +37,13 @@ $("#1o11").mouseenter(function() {
 $("#third").mouseenter(function() {
     $("#botton-s-3").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#botton-s-3").hide();
+    $("#botton-s-3").slideUp();
 });
 
 $("#third").mouseenter(function() {
     $("#fa-random-3").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#fa-random-3").hide();
+    $("#fa-random-3").slideUp();
 });
 
 // // ---------------------------4----------------
@@ -52,13 +52,13 @@ $("#third").mouseenter(function() {
 $("#fourth").mouseenter(function() {
     $("#botton-s-4").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#botton-s-4").hide();
+    $("#botton-s-4").slideUp();
 });
 
 $("#fourth").mouseenter(function() {
     $("#fa-random-4").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#fa-random-4").hide();
+    $("#fa-random-4").slideUp();
 });
 
 
@@ -70,13 +70,13 @@ $("#fourth").mouseenter(function() {
 $("#five").mouseenter(function() {
     $("#botton-s-5").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#botton-s-5").hide();
+    $("#botton-s-5").slideUp();
 });
 
 $("#five").mouseenter(function() {
     $("#fa-random-5").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#fa-random-5").hide();
+    $("#fa-random-5").slideUp();
 });
 
 
@@ -86,13 +86,13 @@ $("#five").mouseenter(function() {
 $("#six").mouseenter(function() {
     $("#botton-s-6").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#botton-s-6").hide();
+    $("#botton-s-6").slideUp();
 });
 
 $("#six").mouseenter(function() {
     $("#fa-random-6").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#fa-random-6").hide();
+    $("#fa-random-6").slideUp();
 });
 
 
@@ -104,13 +104,13 @@ $("#six").mouseenter(function() {
 $("#seven").mouseenter(function() {
     $("#botton-s-7").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#botton-s-7").hide();
+    $("#botton-s-7").slideUp();
 });
 
 $("#seven").mouseenter(function() {
     $("#fa-random-7").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#fa-random-7").hide();
+    $("#fa-random-7").slideUp();
 });
 
 
@@ -121,13 +121,13 @@ $("#seven").mouseenter(function() {
 $("#eight").mouseenter(function() {
     $("#botton-s-8").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#botton-s-8").hide();
+    $("#botton-s-8").slideUp();
 });
 
 $("#eight").mouseenter(function() {
     $("#fa-random-8").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#fa-random-8").hide();
+    $("#fa-random-8").slideUp();
 });
 
 
@@ -136,11 +136,11 @@ $("#eight").mouseenter(function() {
 $("#nine").mouseenter(function() {
     $("#botton-s-9").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#botton-s-9").hide();
+    $("#botton-s-9").slideUp();
 });
 
 $("#nine").mouseenter(function() {
     $("#fa-random-9").show().slideUp().slideDown();
 }).mouseleave(function() {
-    $("#fa-random-9").hide();
+    $("#fa-random-9").slideUp();
 });
