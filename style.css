@@ -824,3 +824,35 @@ element.style {
 #botton-s-9{
   display: none;
 }
+
+
+
+
+
+
+
+
+ .bankuop {
+
+  margin-top: 0%;
+  margin-bottom: 0px;
+
+ }
+   /* .bankuop:hover {
+
+height: 445px;
+    box-shadow: 0 0 6px 3px #d1d1d1;
+margin-bottom: 0px;
+transition: box-shadow 0.6s ease-in-out;
+
+
+    } */
+
+
+
+
+    .bankuop:hover {
+      height: 420px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+      transition: box-shadow 0.7s ease-in-out;
+    }
