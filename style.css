@@ -960,9 +960,17 @@ transition: box-shadow 0.6s ease-in-out;
   }
 }
 
-@media screen and (max-width: 414px) {
+
+@media screen and (min-device-width: 0px) and (max-device-width: 699px) {
+
   .display-1 {
     font-size: 35px;
+  }
+}
+
+@media screen and (min-device-width: 700px) and (max-device-width: 2000px) {
+  .display-1 {
+    font-size: 75px;
   }
 }
 .display-1{
