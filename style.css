@@ -2,7 +2,7 @@
   margin: 0%;
   color: black;
   padding: 0%;
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
 }
 html {
   margin: 0%;
@@ -35,7 +35,7 @@ a {
 .navbar > .container-sm,
 .navbar > .container-xl,
 .navbar > .container-xxl {
-  background-color: #f14c0f;
+  background-color: yellow;
   margin: 0%;
 }
 .kikilk {
@@ -73,7 +73,7 @@ a {
 
 .navbar.sticky {
   padding: 5px 100px;
-  background-color: #f14c0f;
+  background-color: yellow;
 }
 .container-fluid {
   padding: 0.2% 18% 0% 18%;
@@ -103,18 +103,18 @@ a {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: white;
+  color: rgb(0, 0, 0);
   font-weight: 600;
   padding: 15px;
   font-size: 14px;
-  font-family: "Comfortaa", cursive;
+  font-family: "Sarabun", sans-serif;
 }
 .navbar-dark .navbar-nav .nav-link.active {
-  color: white;
+  color: rgb(0, 0, 0);
   font-weight: 600;
   padding: 15px;
   font-size: 14px;
-  font-family: "Comfortaa", cursive;
+  font-family: "Sarabun", sans-serif;
 }
 .navbar-dark .navbar-nav .nav-link:hover {
   color: rgb(177, 174, 174);
@@ -125,12 +125,14 @@ a {
 .first-section-row {
   text-align: center;
   align-items: center;
+
   justify-content: center;
   display: flex;
-  background-color: #f14c0f;
+  background-color: yellow;
 }
 #first-section {
-  background-color: #f14c0f;
+  background-color: yellow;
+
 }
 /* ///////////////////////////second/////////////////////// */
 
@@ -167,9 +169,15 @@ a {
   color: black;
   margin-top: 20px;
 }
-u.section-two-learn-more {
-  margin-top: 20px;
+.hr-more-1{
+
+color: black;
+width: 50px;
+text-align: center;
+align-items: center;
+
 }
+
 .READ-MORE {
   background-color: black;
   color: WHITE;
@@ -203,14 +211,14 @@ u.section-two-learn-more {
 .three-h3 {
   text-align: center;
   align-items: center;
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 25px;
   margin-top: 25px;
 }
 .three-p3 {
   margin-top: 10px;
   color: rgb(231, 68, 95);
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
 }
 .headingg-1 {
   font-family: "Tangerine", cursive;
@@ -222,14 +230,15 @@ u.section-two-learn-more {
 }
 .feature-2-para {
   color: grey;
-  font-size: 20px;
+  font-size: 18px;
 }
 .feature-2-button {
   border: none;
   padding: 10px 20px;
-  color: white;
+  color: rgb(70, 70, 70);
   font-size: 15px;
-  background-color: rgb(250, 68, 68);
+  font-weight: 600;
+  background-color: yellow;
   border-radius: 50px;
   text-align: center;
   align-items: center;
@@ -254,28 +263,28 @@ u.section-two-learn-more {
 .feature-3-feature-box-2 {
   height: 291px;
   width: auto;
-  background-color: #f14c0f;
+  background-color: yellow;
   text-align: center;
   align-items: center;
 }
 .feature-3-feature-box-2:hover {
-  background-color: rgb(255, 144, 17);
+  background-color: red;
 }
 .four-h2111 {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 20px;
   margin-top: 15px;
   color: rgb(15, 58, 107);
 }
 .three-p3111 {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 13px;
-  color: rgb(223, 221, 221);
+  color: rgb(100, 100, 100);
 }
 .JDB {
   text-decoration: none;
   color: black;
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 12px;
   font-weight: bolder;
 }
@@ -299,7 +308,7 @@ u.section-two-learn-more {
   text-align: center;
   text-decoration: none;
   color: rgb(146, 146, 146);
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 12px;
   font-weight: bolder;
   padding-bottom: 10px;
@@ -323,7 +332,7 @@ u.section-two-learn-more {
 }
 .CONTACT-FIRST-HEADING {
   color: red;
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 25px;
   display: inline;
 }
@@ -359,7 +368,7 @@ u.section-two-learn-more {
 #exampleInputEmail1 {
   width: 308px;
   color: red;
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 12px;
 }
 #exampleFormControlTextarea1 {
@@ -368,7 +377,7 @@ u.section-two-learn-more {
   box-sizing: border-box;
   width: 308px;
   color: red;
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 12px;
 }
 .jiji {
@@ -378,7 +387,7 @@ u.section-two-learn-more {
 .contact-h1 {
   padding-top: 10px;
   color: rgb(56, 56, 56);
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 20px;
   font-weight: 900;
 }
@@ -386,7 +395,7 @@ u.section-two-learn-more {
 .form-label {
   color: rgb(80, 80, 80);
   font-size: 14px;
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
 }
 .form-control {
   border: 1px solid rgb(204, 204, 204);
@@ -403,17 +412,17 @@ u.section-two-learn-more {
 }
 
 .cfbh11 {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 19px;
   display: flex;
   color: rgb(56, 56, 56);
 }
 .btn-primary {
-  background-color: #f14c0f;
+  background-color: yellow;
   border: none;
 }
 .serv {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 14px;
   color: rgb(87, 87, 87);
   margin: 0px 0px;
@@ -486,7 +495,7 @@ element.style {
 
 .ordr-h4 {
   color: rgb(124, 124, 124);
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 20px;
   font-weight: 900;
   margin-top: 140px;
@@ -495,11 +504,11 @@ element.style {
   font-size: 43px;
   margin-top: 25px;
   font-weight: 700;
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
 }
 .ordr-p1 {
   margin-top: 40px;
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 15px;
   align-items: center;
   color: rgb(75, 75, 75);
@@ -535,7 +544,7 @@ element.style {
 
 .ordr-h4o {
   color: rgb(124, 124, 124);
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 20px;
   font-weight: 900;
 }
@@ -546,7 +555,7 @@ element.style {
 }
 
 .page-nav ul li {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   text-decoration: none;
   float: left;
   list-style-type: none;
@@ -578,7 +587,7 @@ element.style {
 }
 
 .bji ul li {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   text-decoration: none;
   float: left;
   list-style-type: none;
@@ -618,7 +627,7 @@ element.style {
 }
 
 .centered {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   color: white;
 
   position: absolute;
@@ -646,8 +655,14 @@ element.style {
   height: 200px;
 }
 
+.home-menu-imgg-1 {
+  padding: 30px 10px 0px 10px;
+  width: 423px;
+  height: 350px;
+}
+
 .menu-h3-1 {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   padding-bottom: 6px;
   font-weight: 900;
   padding-top: 30px;
@@ -656,7 +671,7 @@ element.style {
 .menu-a-1 {
   text-decoration: none;
   color: rgb(119, 119, 119);
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-weight: 600;
   padding-bottom: 20px;
   font-size: 16px;
@@ -690,23 +705,23 @@ element.style {
 }
 
 .outlet-h3-1 {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   padding-bottom: 30px;
   font-weight: 800;
   padding-top: 30px;
 }
 .outlet-h6-1 {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-size: 15px;
   color: grey;
 }
 .outlet-h5-1 {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   color: grey;
   font-size: 16px;
 }
 .outlet-span-1 {
-  font-family: "Comfortaa", cursive;
+  font-family: "Scope One", serif;
   font-weight: 900;
 }
 .blog-row {
@@ -811,15 +826,6 @@ element.style {
   margin-top: 0%;
   margin-bottom: 0px;
 }
-/* .bankuop:hover {
-
-height: 445px;
-    box-shadow: 0 0 6px 3px #d1d1d1;
-margin-bottom: 0px;
-transition: box-shadow 0.6s ease-in-out;
-
-
-    } */
 
 .bankuop:hover {
   height: 420px;
@@ -960,9 +966,7 @@ transition: box-shadow 0.6s ease-in-out;
   }
 }
 
-
 @media screen and (min-device-width: 0px) and (max-device-width: 699px) {
-
   .display-1 {
     font-size: 35px;
   }
@@ -973,10 +977,52 @@ transition: box-shadow 0.6s ease-in-out;
     font-size: 75px;
   }
 }
-.display-1{
-  text-shadow:
-  -1px -1px 0 rgb(255, 255, 255),
-   1px -1px 0 rgb(255, 255, 255),
-   -1px 1px 0 rgb(255, 255, 255),
-    1px 1px 0 rgb(255, 255, 255);
+.display-1 {
+  text-shadow: -1px -1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255),
+    -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255);
 }
+
+/* ////////////////////////////////////////////////////////////////range slider------------------------------------------------ */
+
+
+
+#home-fa-random {
+  display: none;
+}
+#home-botton-s {
+  display: none;
+}
+
+.op-bankuop:hover {
+  height: 420px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.7s ease-in-out;
+  background-color: white;
+  transition: background-color 3s;
+}
+
+
+
+
+
+
+/* ========================================================================== */
+
+
+
+.iot {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 47%;
+
+  transform: translate(-50%, -50%);
+}
+
+
