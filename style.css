@@ -44,7 +44,10 @@ a {
 .fixed-top {
   padding: 0px;
 }
+.navbar-dark .navbar-toggler-icon{
+color: black;
 
+}
 .nav-link {
   position: relative;
   display: block;
@@ -102,21 +105,21 @@ a {
   overflow: hidden;
 }
 
-.navbar-dark .navbar-nav .nav-link {
+.navbar-light .navbar-nav .nav-link {
   color: rgb(0, 0, 0);
   font-weight: 600;
   padding: 15px;
   font-size: 14px;
   font-family: "Sarabun", sans-serif;
 }
-.navbar-dark .navbar-nav .nav-link.active {
+.navbar-light .navbar-nav .nav-link.active {
   color: rgb(0, 0, 0);
   font-weight: 600;
   padding: 15px;
   font-size: 14px;
   font-family: "Sarabun", sans-serif;
 }
-.navbar-dark .navbar-nav .nav-link:hover {
+.navbar-light .navbar-nav .nav-link:hover {
   color: rgb(177, 174, 174);
   text-decoration: blue;
 }
