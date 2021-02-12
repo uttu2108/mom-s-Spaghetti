@@ -1,5 +1,67 @@
+// ----------------------------------------------------------------------------------home----------------------------------------------------------------------------
+
+// -------------------------------------------------top image
 
 
+
+
+
+
+
+// -------------------------------------------------top image
+
+
+$("#home-menu").mouseenter(function() {
+    $("#home-botton-s").show().slideUp().slideDown();
+}).mouseleave(function() {
+    $("#home-botton-s").slideUp();
+});
+
+$("#home-menu").mouseenter(function() {
+    $("#home-fa-random").show().slideUp().slideDown();
+}).mouseleave(function() {
+    $("#home-fa-random").slideUp();
+});
+
+
+
+
+$("#home-menu-2").mouseenter(function() {
+    $("#home-botton-s-2").show().slideUp().slideDown();
+}).mouseleave(function() {
+    $("#home-botton-s-2").slideUp();
+});
+
+$("#home-menu-2").mouseenter(function() {
+    $("#home-fa-random-2").show().slideUp().slideDown();
+}).mouseleave(function() {
+    $("#home-fa-random-2").slideUp();
+});
+
+
+
+$("#home-menu-3").mouseenter(function() {
+    $("#home-botton-s-3").show().slideUp().slideDown();
+}).mouseleave(function() {
+    $("#home-botton-s-3").slideUp();
+});
+
+$("#home-menu-3").mouseenter(function() {
+    $("#home-fa-random-3").show().slideUp().slideDown();
+}).mouseleave(function() {
+    $("#home-fa-random-3").slideUp();
+});
+
+
+
+
+
+
+
+
+
+
+// ----------------------------------------------------------------------------------menu-------------------------------------------------------------------------------
 
 $("#1o1").mouseenter(function() {
     $("#botton-s").show().slideUp().slideDown();
@@ -153,6 +215,4 @@ function openNav() {
   function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
   }
-
-
 
