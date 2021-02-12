@@ -75,7 +75,7 @@
                     <ul class="blah"
                         style="align-items: center;text-align: center; justify-content: center; display: inline-flex; margin-top: 20px; margin-bottom: 0px;">
                         <li> <a href="index.html"><i class="fas fa-home"></i> Home</a></li>
-                        <li><i class="fas fa-angle-double-right"></i>Contact Us </li>
+                        <li><i class="fas fa-angle-double-right"></i>About Us </li>
                     </ul>
                 </div>
             </div>
@@ -110,36 +110,23 @@
                         <hr style="background-color: black; width: 308px; ">
                         <br>
 
-                        <form>
-                            <div class="mb-3">
-                                <label for="exampleInputEmail1" class="form-label">Your Name</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1"
-                                    aria-describedby="emailHelp" required>
-
-                            </div>
-                            <div class="mb-3">
-                                <label for="exampleInputEmail1" class="form-label">Your Email</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1"
-                                    aria-describedby="emailHelp" required>
-                            </div>
-                            <div class="mb-3">
-                                <label for="exampleInputEmail1" class="form-label">Phone Number</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1"
-                                    aria-describedby="emailHelp" required>
-
-                            </div>
-                            <div class="mb-3">
-                                <label for="exampleInputEmail1" class="form-label">Your Company</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1"
-                                    aria-describedby="emailHelp" required>
-                            </div>
-                            <div class=" col-lg-6 mb-1">
-                                <label for="exampleFormControlTextarea1" class="form-label">Your Message</label>
-                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="8"></textarea>
-                            </div>
-                            <br>
-                            <button type="submit" class="btn btn-primary">Submit</button>
-                        </form>
+                        <div class="col-md-8" data-aos="fade-up">
+                            <form class="contact-bg" id="contact-form" name="contact" method="post" novalidate="novalidate">
+                                <input type="text" name="name" class="form-control" placeholder="Your Name" />
+                                <input type="email" name="email" class="form-control" placeholder="Your E-mail" />
+                                <input type="text" name="phone" class="form-control" placeholder="Phone Number" />
+                                <textarea name="message" class="form-control" placeholder="Your Message"
+                                    style="height:120px"></textarea> <br>
+                                <button id="submit" type="submit" name="submit" class="btn btn-glance">Send</button>
+                                <div id="success">
+                                    <p class="green textcenter"> Your message was sent successfully! I will be in touch as soon as I
+                                        can. </p>
+                                </div>
+                                <div id="error">
+                                    <p> Something went wrong, try refreshing and submitting the form again. </p>
+                                </div>
+                            </form>
+                        </div>
                     </div>
 
 
